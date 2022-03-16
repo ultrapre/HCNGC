@@ -2,3 +2,7 @@ Error:
 
 Print error:
 NGC 7004: RA 20 54 14
+
+Add NGCorig.csv from http://haroldcorwin.net/ngcic/NGCorig.dat
+Check Non-Blank RA/NPD from N.G.C.1888.Dreyer.csv (http://cseligman.com/text/atlas/ngc00.htm#ngcic) with N.G.C.1888
+Extract csv from Excel NGCorig.xlsx
