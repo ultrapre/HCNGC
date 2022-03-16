@@ -2,7 +2,9 @@ Error:
 
 Print error:
 NGC 7004: RA 20 54 14
+NGC 7697: RA 23,26,49 (G.C.)
 
 Add NGCorig.csv from http://haroldcorwin.net/ngcic/NGCorig.dat
-Check Non-Blank RA/NPD from N.G.C.1888.Dreyer.csv (http://cseligman.com/text/atlas/ngc00.htm#ngcic) with N.G.C.1888
+Check Non-Blank RA/NPD from NGC.Hist.cseligman.csv (http://cseligman.com/text/atlas/ngc00.htm#ngcic) with N.G.C.1888
 Extract csv from Excel NGCorig.xlsx
+
